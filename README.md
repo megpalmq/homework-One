@@ -23,8 +23,11 @@ This must run in Expo and on an Android Emulator
 <p>
 1. git clone the repository-url 
 
-2. "npm run start" in the terminal
+2. run "expo start" to start the server
 
-3. "expo start" to start the server
+3. run "npm run start" in the terminal 
+ 
+ After downloading, make sure to do the npm install to get all the dependencies for the project.
+
 </p>
 <p>Dont forget to start up your andriod emmulator to show the phone QR code as well as the application to appear on the emmulator!
